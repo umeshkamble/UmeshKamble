@@ -1,9 +1,8 @@
-## Hi there 👋
-
 <!--
 **umeshkamble/UmeshKamble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Hi there 👋 <p align="right">[![Profile Views](https://komarev.com/ghpvc/?username=sattasundar&color=blueviolet)](https://github.com/umeshkamble)</p>
+ -->
+## Hi there 👋 
 
 I'm Umesh Suhas Kamble.
 
@@ -26,10 +25,6 @@ Eager to learning new things, sharing knowledge and interacting with communities
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-yellowgreen?style=flat-square&logo=androidstudio)
 ![XCode](https://img.shields.io/badge/Xcode-9af?style=flat-square&logo=xcode)
 
- <!-- <p align="center">
-  <img src="https://habib.al-mawali.com/wp-content/uploads/ibm-cloud.png" alt="ibm certified" width="126" height="80"/>
-  <img src="https://habib.al-mawali.com/wp-content/uploads/KTBase-Technologies.png" alt="ktbase" width="133" height="80"/>
- </p> -->
 
 #### Social Handles:
 
